@@ -10,7 +10,10 @@
             <div class="fw-bold font-serif fs-2 lh-1 mb-5">
               Jasa Konsultasi Sertifikat Laik Fungsi (SLF)
             </div>
-            <button class="btn btn-lg btn-primary py-3 px-4 fw-bold">
+            <button
+              @click="scrollTo('#apa-slf')"
+              class="btn btn-lg btn-primary py-3 px-4 fw-bold"
+            >
               Apa itu SLF ?
             </button>
           </div>
@@ -28,6 +31,7 @@
           </div>
         </div>
       </div>
+
       <div class="row d-lg-none d-block">
         <div class="col-12">
           <img
@@ -40,13 +44,13 @@
     </div>
 
     <div class="py-5 my-5">
-      <div class="container">
+      <div class="container" id="apa-slf">
         <div class="text-center">
           <div class="fw-bold display-1 mb-4 font-serif">
             Apa itu <span class="text-primary">SLF</span> ?
           </div>
           <div class="mb-4">
-            <img src="/assets/images/slf.jfif" alt="" class="" />
+            <img src="/assets/images/slf.png" class="img-fluid" />
           </div>
 
           <div>
@@ -161,7 +165,7 @@
       </div>
     </div>
 
-    <div class="py-5 my">
+    <!-- <div class="py-5 my">
       <div class="container">
         <div class="parent-why p-5">
           <div class="fw-bold display-4 mb-5 font-serif text-center">
@@ -194,9 +198,20 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
+<script>
+export default {
+  methods: {
+    scrollTo(target) {
+      const top = document.querySelector(target);
+      window.scrollTo(0, top.offsetTop - 100);
+    },
+  },
+};
+</script>
+
 <style scoped>
 .hero-content {
   height: 100vh;

@@ -14,10 +14,7 @@
           <div class="col-lg-4 col-6 ms-auto">
             <p>Surabaya,</p>
             <p>Kepada</p>
-            <p>
-              Yth. Sdr. Kepala Dinas Perumahan Rakyat dan Kawasan Permukiman
-              Serta Pertanahan
-            </p>
+            <p>Yth.</p>
             <p>di SURABAYA</p>
           </div>
           <div class="col-12">
