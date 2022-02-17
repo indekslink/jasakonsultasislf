@@ -11,9 +11,6 @@
             </div>
             <div class="col-lg-9 text-md-start text-center">
               <div class="fs-1 fw-bold font-serif">CV. Tirai Kencana</div>
-              <div class="text-muted">
-                CIVIL-GENERAL CONTRACTOR-SUPPLIER & DESIGN
-              </div>
             </div>
             <div class="col-12 fs-3 pt-3 font-serif">
               Jasa Konsultasi Sertifikat Laik Fungsi

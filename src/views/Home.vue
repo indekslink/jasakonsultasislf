@@ -4,7 +4,9 @@
       <div class="hero-content pt-5">
         <div class="row bg-hero-content mt-5">
           <div class="col-lg-7 text-lg-start text-center">
-            <div class="display-1 fw-bolder font-serif mb-5 lh-1">
+            <div
+              class="display-1 fw-bolder font-serif mb-5 lh-1 title-hero-content"
+            >
               CV. Tirai Kencana
             </div>
             <div class="fw-bold font-serif fs-2 lh-1 mb-5">
@@ -59,10 +61,6 @@
               bangunan gedung yang telah selesai dibangun dan telah memenuhi
               persyaratan kelaikan fungsi berdasarkan hasil pemeriksaan kelaikan
               fungsi bangunan gedung sebagai syarat untuk dapat dimanfaatkan.
-            </p>
-            <p>
-              Masa berlaku SLF sejak diterbitkan adalah 5 tahun untuk bangungan
-              non-Rumah Tinggal.
             </p>
           </div>
         </div>
@@ -162,6 +160,13 @@
             agustus 2007 Tentang Pedoman Sertifikat Laik Fungsi Bangunan Gedung
           </div>
         </div>
+        <div class="d-flex py-3">
+          <i class="fas fa-balance-scale fs-2 text-primary me-4"></i>
+          <div>
+            Peraturan Menteri Pekerjaan Umum Nomor : 27/PRT/M/2018 Tahun 2018
+            Tentang Sertifikat Laik Fungsi Pedoman Bangunan Gedung
+          </div>
+        </div>
       </div>
     </div>
 
@@ -230,6 +235,11 @@ export default {
 .text-2 button {
   position: relative;
   z-index: 3;
+}
+.title-hero-content {
+  background-image: linear-gradient(to right, black, #0d4394, #0d6efd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .text-2::after {
   content: "";

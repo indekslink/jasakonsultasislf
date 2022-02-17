@@ -69,7 +69,7 @@
                   class="img-fluid"
                 />
                 <div class="fs-3 text-center font-serif fw-bold">
-                  Surat Tanah Legelisir
+                  Surat Tanah Legelisir (SHM/HGB)
                 </div>
               </div>
             </div>
@@ -94,6 +94,18 @@
                 />
                 <div class="fs-3 text-center font-serif fw-bold">
                   NIB Terbaru
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12">
+              <div class="card shadow border-0 py-3 px-2">
+                <img
+                  src="/assets/images/syarat-6.png"
+                  alt=""
+                  class="img-fluid"
+                />
+                <div class="fs-3 text-center font-serif fw-bold">
+                  Surat Perjanjian Sewa/Kontrak
                 </div>
               </div>
             </div>
