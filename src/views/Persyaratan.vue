@@ -56,8 +56,33 @@
                   alt=""
                   class="img-fluid"
                 />
-                <div class="fs-3 text-center font-serif fw-bold">
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
                   KTP Pemohon
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4 col-sm-6 col-12">
+              <div class="card shadow border-0 py-3 px-2">
+                <img
+                  src="/assets/images/syarat-5.png"
+                  alt=""
+                  class="img-fluid"
+                />
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  Surat Kuasa
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12">
+              <div class="card shadow border-0 py-3 px-2">
+                <img
+                  src="/assets/images/syarat-7.png"
+                  alt=""
+                  class="img-fluid"
+                />
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  IMB/PBG
                 </div>
               </div>
             </div>
@@ -68,23 +93,12 @@
                   alt=""
                   class="img-fluid"
                 />
-                <div class="fs-3 text-center font-serif fw-bold">
-                  Surat Tanah Legelisir (SHM/HGB)
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  Surat Tanah (SHM/HGB)
                 </div>
               </div>
             </div>
-            <div class="col-md-4 col-sm-6 col-12">
-              <div class="card shadow border-0 py-3 px-2">
-                <img
-                  src="/assets/images/syarat-4.png"
-                  alt=""
-                  class="img-fluid"
-                />
-                <div class="fs-3 text-center font-serif fw-bold">
-                  Akte Notaris Legelisir
-                </div>
-              </div>
-            </div>
+
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow border-0 py-3 px-2">
                 <img
@@ -92,8 +106,20 @@
                   alt=""
                   class="img-fluid"
                 />
-                <div class="fs-3 text-center font-serif fw-bold">
-                  NIB Terbaru
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  NIB Berbasis Resiko
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6 col-12">
+              <div class="card shadow border-0 py-3 px-2">
+                <img
+                  src="/assets/images/syarat-8.png"
+                  alt=""
+                  class="img-fluid"
+                />
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  SPPT PBB tahun berjalan
                 </div>
               </div>
             </div>
@@ -104,20 +130,23 @@
                   alt=""
                   class="img-fluid"
                 />
-                <div class="fs-3 text-center font-serif fw-bold">
+                <div class="fs-3 text-center lh-sm font-serif mb-2 fw-bold">
                   Surat Perjanjian Sewa/Kontrak
                 </div>
+                <small class="d-block text-center"
+                  >(apabila tanah dan bangunan sewa + copy KTP pemilik)</small
+                >
               </div>
             </div>
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow border-0 py-3 px-2">
                 <img
-                  src="/assets/images/syarat-5.png"
+                  src="/assets/images/syarat-4.png"
                   alt=""
                   class="img-fluid"
                 />
-                <div class="fs-3 text-center font-serif fw-bold">
-                  Surat Kuasa
+                <div class="fs-3 text-center lh-sm font-serif fw-bold">
+                  Akte Pendirian/Perubahan berikut AHU
                 </div>
               </div>
             </div>
@@ -137,12 +166,14 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Cipta Karya Kota Surabaya
+                  Dinas Cipta Karya
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">SK IMB & Gambar IMB Stempel dinas</div>
+                    <div class="lh-sm">
+                      SK IMB/PBG & Gambar IMB Stempel Dinas
+                    </div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
@@ -150,7 +181,7 @@
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">Lunas Retribusi PBB</div>
+                    <div class="lh-sm">Lunas Retribusi PBB tahun berjalan</div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
@@ -164,12 +195,14 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Pematusan Kota Surabaya
+                  Dinas Pematusan
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">Surat arahan Dranaise</div>
+                    <div class="lh-sm">
+                      Surat arahan Dranaise/Rekom Drainase
+                    </div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
@@ -184,7 +217,7 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Disnaker Propinsi Jawa Timur
+                  Disnaker Propinsi
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
@@ -204,7 +237,7 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Perhubungan Kota Surabaya
+                  Dinas Perhubungan
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
@@ -232,7 +265,7 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Kesehatan Kota Surabaya
+                  Dinas Kesehatan
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
@@ -264,16 +297,20 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Lingkungan Hidup Kota Surabaya
+                  Dinas Lingkungan Hidup
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">Rekom amdalalin</div>
+                    <div class="lh-sm">
+                      Rekom Amdalalin (berupa analisa dari Konsultan)
+                    </div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">Ijin buang limbah cair</div>
+                    <div class="lh-sm">
+                      Ijin buang limbah cair (kerjasama dengan pihak ke 3)
+                    </div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
@@ -283,7 +320,8 @@
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
                     <div class="lh-sm">
                       Bangunan TPS B3, pengolahan limbah yang terpasang sesuai
-                      dengan arahan LH
+                      dengan arahan LH berupa bangunan fisik yang nantinya akan
+                      di tes commusioning selama 3 bulan
                     </div>
                   </div>
                 </div>
@@ -292,14 +330,12 @@
             <div class="col-md-4 col-sm-6 col-12">
               <div class="card shadow justify-content-start border-0 py-4 px-3">
                 <div class="fs-5 text-center font-serif mb-4 fw-bold">
-                  Dinas Pemadam Kebakaran Kota Surabaya
+                  Dinas Pemadam Kebakaran
                 </div>
                 <div class="item">
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
-                    <div class="lh-sm">
-                      Rekom Pemadam kebakaran dari PMK Surabaya
-                    </div>
+                    <div class="lh-sm">Rekom Pemadam kebakaran</div>
                   </div>
                   <div class="d-flex py-2">
                     <i class="fas fa-arrow-right me-3 mt-1"> </i>
@@ -324,6 +360,6 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 </style>
